@@ -1,4 +1,4 @@
-# Smash Workshop — downloads
+# Smash Numérique — downloads
 
 The party brawler with fighters drawn in our workshop.
 
@@ -7,9 +7,11 @@ the zip for your computer:
 
 | Computer | File |
 |---|---|
-| Windows | `smash-workshop-…-windows.zip` |
-| Mac (Apple Silicon or Intel) | `smash-workshop-…-macos.zip` |
-| Linux | `smash-workshop-…-linux.zip` |
+| Windows | `smash-numerique-…-windows.zip` |
+| Mac with Apple Silicon (M1 or newer) | `smash-numerique-…-macos.zip` |
+| Linux | `smash-numerique-…-linux.zip` |
+
+Older Macs (Intel): play the browser version.
 
 Each zip has a **HOW TO OPEN.txt** with the few clicks needed the first time
 (the game isn't signed by Apple or Microsoft, so they ask before opening it).
